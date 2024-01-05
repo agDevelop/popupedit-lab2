@@ -1,4 +1,5 @@
-# PopupeditLab2
+# Web-технологии разработки мобильных приложений
+ Lab2 Goncharov A.N. 224-372
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
 
